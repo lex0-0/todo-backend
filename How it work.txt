@@ -1,1 +1,1 @@
-it works by creating a json format then it creates a list by that and u can munipelate that list of json by addTodo or make them true or false and u can view thw on port 9090
+it works by creating a json format then it creates a list by that and u can munipelate that list of json by addTodo or make them true or false and u can view it on port 9090
